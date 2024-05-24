@@ -3,7 +3,7 @@ Funcionalidade: Catalogo
     Cenario:Acessar a funcionalidade Carrinho
     Dado que o usuario acessou a tela inicial do aplicativo
     Quando acessar a funcionalidade Carrinho
-    Entao o usuario tera acesso aos produtos adicionados ao seu carrinho
+    Entao o usuario tera acesso ao seu carrinho de produtos
 
     Cenario: Deve ser possivel avaliar um produto
     Dado que o usuario acessou a tela inicial do aplicativo
