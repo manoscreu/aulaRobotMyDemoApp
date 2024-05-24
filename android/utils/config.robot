@@ -4,11 +4,10 @@ Resource    ..//base.robot
 
 
 *** Variables ***
-${PREFIXO}    com.google.android.calculator:id/
 ${ANDROID_AUTOMATION_NAME}    UIAutomator2
 ${ANDROID_PLATFORM_VERSION}    11   
-${APP_PACKAGE}    com.google.android.calculator
-${APP_ACTIVITY}    com.android.calculator2.Calculator
+${APP_PACKAGE}    com.saucelabs.mydemoapp.rn
+${APP_ACTIVITY}    .MainActivity
 ${ANDROID_PLATFORM_NAME}    Android
 
 *** Keywords ***

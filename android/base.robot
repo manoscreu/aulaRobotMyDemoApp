@@ -3,4 +3,4 @@
 Library    AppiumLibrary
 
 Resource    utils/config.robot
-Resource    pages/calculatorPage.robot
+Resource    pages/sauceLabsPage.robot
